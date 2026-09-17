@@ -1,0 +1,15 @@
+
+distance from y = mx + b to (x0, y0) is:
+
+abs(m*x0 - y0 + b) / sqrt(m*m + 1)
+
+all tangent lines to a circle centered Ci, radius Ri:
+
+let n(θ) = (cosθ, sinθ), normal vector, θ ranges [0, 2pi)
+
+for a fixed θ, the line (parametrically) is:
+
+x(t) = Ci + ri * (cos θ, sin θ) + t(- sin θ, cos θ)
+
+
+
